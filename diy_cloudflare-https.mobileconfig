@@ -3,7 +3,7 @@
 <plist version="1.0">
     <dict>
         <key>PayloadDisplayName</key>
-        <string>diyCloudflareDoH</string>
+        <string>CloudflareDoH</string>
         <key>PayloadIdentifier</key>
         <string>com.diy.dns.diyCloudflareDoH</string>
         <key>PayloadUUID</key>
