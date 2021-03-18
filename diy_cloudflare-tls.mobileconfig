@@ -3,7 +3,7 @@
 <plist version="1.0">
     <dict>
         <key>PayloadDisplayName</key>
-        <string>diyCloudflareDoT</string>
+        <string>CloudflareDoT</string>
         <key>PayloadIdentifier</key>
         <string>com.diy.dns.diyCloudflareDoT</string>
         <key>PayloadUUID</key>
@@ -45,6 +45,21 @@
                     <key>ServerName</key>
                     <string>1dot1dot1dot1.cloudflare-dns.com</string>
                 </dict>
+                <key>OnDemandRules</key>
+                <array>
+                    <dict>
+                        <key>Action</key>
+                        <string>Disconnect</string>
+                        <key>SSIDMatch</key>
+                        <array>
+                            <string>papamarco2</string>
+                        </array>
+                    </dict>
+                    <dict>
+                        <key>Action</key>
+                        <string>Connect</string>
+                    </dict>
+                </array>
             </dict>
         </array>
     </dict>
