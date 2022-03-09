@@ -3,9 +3,9 @@
 <plist version="1.0">
     <dict>
         <key>PayloadDisplayName</key>
-        <string>CloudflareDoT</string>
+        <string>Cloudflare DNS-TLS</string>
         <key>PayloadIdentifier</key>
-        <string>com.diy.dns.diyCloudflareDoT</string>
+        <string>com.dns.CloudflareDoT</string>
         <key>PayloadUUID</key>
         <string>13241598-E6D8-4BB0-9028-448B3C7599D1</string>
         <key>PayloadDescription</key>
