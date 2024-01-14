@@ -3,13 +3,13 @@
 <plist version="1.0">
     <dict>
         <key>PayloadDisplayName</key>
-        <string>CloudFlare DNS over HTTPS</string>
+        <string>CloudFlare DNS-HTTPS</string>
         <key>PayloadIdentifier</key>
         <string>com.dns.CloudflareDoH</string>
         <key>PayloadUUID</key>
         <string>1B714ABA-85D9-40F6-87E0-0F50BBBE8FB1</string>
         <key>PayloadDescription</key>
-        <string>CloudFlare DNS-HTTPS</string>
+        <string>CloudFlare DNS over HTTPS</string>
         <key>PayloadRemovalDisallowed</key>
         <false/>
         <key>PayloadVersion</key>
@@ -20,7 +20,7 @@
         <array>
             <dict>
                 <key>PayloadDisplayName</key>
-                <string>Cloudflare DNS-HTTPS</string>
+                <string>CloudFlare DNS-HTTPS</string>
                 <key>PayloadType</key>
                 <string>com.apple.dnsSettings.managed</string>
                 <key>PayloadIdentifier</key>
